@@ -7,7 +7,7 @@ target/
 !**/src/test/**/target/
 
 # =========================
-# Spring Boot / local config (NÃO subir segredo)
+# Spring Boot / local config
 # =========================
 application-local.properties
 
@@ -51,7 +51,7 @@ logs/
 /.nb-gradle/
 
 # =========================
-# Gradle (caso use no futuro)
+# Gradle 
 # =========================
 build/
 !**/src/main/**/build/
